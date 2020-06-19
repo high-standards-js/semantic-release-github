@@ -1,7 +1,5 @@
 const base = require('@high-standards-js/base');
-const semanticRelease = require('@high-standards-js/semanticRelease');
-const fs = require('fs');
-const path = require('path');
+const semanticRelease = require('@high-standards-js/semantic-release');
 
 (async() => {
     await base.checkAcceptedHighStandards();
