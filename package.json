@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "@high-standards-js/base": "^1.5.1",
-    "@high-standards-js/semantic-release": "^1.1.1",
+    "@high-standards-js/semantic-release": "^1.1.2",
     "husky": "4.2.5"
   },
   "devDependencies": {

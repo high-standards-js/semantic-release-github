@@ -6,5 +6,5 @@ const semanticRelease = require('@high-standards-js/semantic-release');
     const config = JSON.parse(
         base.getTemplate(__dirname, 'github.json')
     );
-    semanticRelease.addPluginConfig(config.plugins[0]);
+    semanticRelease.addPluginConfig(config);
 })();
